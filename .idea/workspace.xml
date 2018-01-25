@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="434e91f6-f002-4b7f-973c-efacfc9d6065" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="carousel.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/carousel/carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="923" column="4" lean-forward="false" selection-start-line="923" selection-start-column="4" selection-end-line="923" selection-end-column="4" />
+              <folding>
+                <element signature="e#285#340#0" expanded="false" />
+                <element signature="e#693#751#0" expanded="false" />
+                <element signature="e#1235#1310#0" expanded="false" />
+                <element signature="n#!!block;n#onResize#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#onReadyStateChange#0;n#Carousel#0" expanded="false" />
+                <element signature="e#1884#1901#0" expanded="false" />
+                <element signature="n#!!block;n#componentWillMount#0;n#Carousel#0" expanded="false" />
+                <element signature="e#2886#2948#0" expanded="false" />
+                <element signature="e#3101#3162#0" expanded="false" />
+                <element signature="e#3220#3379#0" expanded="false" />
+                <element signature="e#3258#3311#0" expanded="false" />
+                <element signature="e#3317#3369#0" expanded="false" />
+                <element signature="e#3542#3650#0" expanded="false" />
+                <element signature="n#!!doc;n#setInitialDimensions#0;n#Carousel#0" expanded="false" />
+                <element signature="e#3887#3896#0" expanded="false" />
+                <element signature="e#6708#6755#0" expanded="false" />
+                <element signature="n#!!block;n#setLeft#0;n#Carousel#0" expanded="false" />
+                <element signature="e#6812#6954#0" expanded="false" />
+                <element signature="n#!!block;n#setExternalData#0;n#Carousel#0" expanded="false" />
+                <element signature="e#7019#7061#0" expanded="false" />
+                <element signature="n#!!doc;n#getTargetLeft#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#getTargetLeft#0;n#Carousel#0" expanded="false" />
+                <element signature="e#7275#7904#0" expanded="false" />
+                <element signature="e#8249#8450#0" expanded="false" />
+                <element signature="n#!!doc;n#startAutoplay#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#startAutoplay#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#autoplayIterator#0;n#Carousel#0" expanded="false" />
+                <element signature="e#8791#8852#0" expanded="false" />
+                <element signature="e#8943#8984#0" expanded="false" />
+                <element signature="e#8990#9034#0" expanded="false" />
+                <element signature="n#!!doc;n#stopAutoplay#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#stopAutoplay#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#resetAutoplay#0;n#Carousel#0" expanded="false" />
+                <element signature="e#9239#9317#0" expanded="false" />
+                <element signature="n#!!doc;n#goToSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#goToSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="e#9489#11366#0" expanded="false" />
+                <element signature="e#9531#9570#0" expanded="false" />
+                <element signature="e#9639#10423#0" expanded="false" />
+                <element signature="e#9767#9831#0" expanded="false" />
+                <element signature="e#9865#10390#0" expanded="false" />
+                <element signature="e#10079#10341#0" expanded="false" />
+                <element signature="e#10429#11356#0" expanded="false" />
+                <element signature="e#10686#10757#0" expanded="false" />
+                <element signature="e#10791#11323#0" expanded="false" />
+                <element signature="e#11005#11274#0" expanded="false" />
+                <element signature="e#11480#11533#0" expanded="false" />
+                <element signature="e#11569#11621#0" expanded="false" />
+                <element signature="e#11647#11777#0" expanded="false" />
+                <element signature="n#!!doc;n#nextSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#nextSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="e#12037#12102#0" expanded="false" />
+                <element signature="e#12232#12263#0" expanded="false" />
+                <element signature="e#12300#12392#0" expanded="false" />
+                <element signature="e#12398#12809#0" expanded="false" />
+                <element signature="e#12445#12590#0" expanded="false" />
+                <element signature="n#!!doc;n#previousSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#previousSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="e#12937#12968#0" expanded="false" />
+                <element signature="e#13005#13097#0" expanded="false" />
+                <element signature="e#13103#13238#0" expanded="false" />
+                <element signature="n#!!doc;n#animateSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#animateSlide#0;n#Carousel#0" expanded="false" />
+                <element signature="e#13393#13611#0" expanded="false" />
+                <element signature="n#!!doc;n#handleMouseOver#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#handleMouseOver#0;n#Carousel#0" expanded="false" />
+                <element signature="e#13722#13806#0" expanded="false" />
+                <element signature="n#!!doc;n#handleMouseOut#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#handleMouseOut#0;n#Carousel#0" expanded="false" />
+                <element signature="e#13929#14014#0" expanded="false" />
+                <element signature="n#!!doc;n#swipeDirection#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#swipeDirection#0;n#Carousel#0" expanded="false" />
+                <element signature="e#14305#14369#0" expanded="false" />
+                <element signature="e#14419#14452#0" expanded="false" />
+                <element signature="e#14505#14538#0" expanded="false" />
+                <element signature="e#14591#14625#0" expanded="false" />
+                <element signature="e#14668#14824#0" expanded="false" />
+                <element signature="e#14725#14766#0" expanded="false" />
+                <element signature="e#14772#14814#0" expanded="false" />
+                <element signature="n#!!doc;n#handleSwipe#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#handleSwipe#0;n#Carousel#0" expanded="false" />
+                <element signature="e#15043#15089#0" expanded="false" />
+                <element signature="e#15095#15142#0" expanded="false" />
+                <element signature="e#15246#15311#0" expanded="false" />
+                <element signature="e#15393#16135#0" expanded="false" />
+                <element signature="e#15445#15827#0" expanded="false" />
+                <element signature="e#15656#15750#0" expanded="false" />
+                <element signature="e#15756#15813#0" expanded="false" />
+                <element signature="e#15872#16125#0" expanded="false" />
+                <element signature="e#15950#16044#0" expanded="false" />
+                <element signature="e#16050#16111#0" expanded="false" />
+                <element signature="e#16141#16205#0" expanded="false" />
+                <element signature="e#16261#16301#0" expanded="false" />
+                <element signature="n#!!doc;n#getTouchEvents#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#getTouchEvents#0;n#Carousel#0" expanded="false" />
+                <element signature="e#17693#17988#0" expanded="false" />
+                <element signature="e#18539#18630#0" expanded="false" />
+                <element signature="e#18661#18713#0" expanded="false" />
+                <element signature="n#!!block;n#getMouseEvents#0;n#Carousel#0" expanded="false" />
+                <element signature="e#18825#18861#0" expanded="false" />
+                <element signature="e#18878#21273#0" expanded="false" />
+                <element signature="e#18906#18961#0" expanded="false" />
+                <element signature="e#18988#19042#0" expanded="false" />
+                <element signature="e#19071#19309#0" expanded="false" />
+                <element signature="e#19108#19205#0" expanded="false" />
+                <element signature="e#19238#19293#0" expanded="false" />
+                <element signature="e#19338#20919#0" expanded="false" />
+                <element signature="e#19382#19429#0" expanded="false" />
+                <element signature="e#19692#19751#0" expanded="false" />
+                <element signature="e#20119#20396#0" expanded="false" />
+                <element signature="e#20429#20903#0" expanded="false" />
+                <element signature="e#20946#21089#0" expanded="false" />
+                <element signature="e#20990#21037#0" expanded="false" />
+                <element signature="e#21119#21262#0" expanded="false" />
+                <element signature="e#21163#21210#0" expanded="false" />
+                <element signature="n#!!block;n#handleClick#0;n#Carousel#0" expanded="false" />
+                <element signature="e#21340#21513#0" expanded="false" />
+                <element signature="e#21439#21503#0" expanded="false" />
+                <element signature="n#!!doc;n#render#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!doc;n#renderDecorators#0;n#Carousel#0" expanded="false" />
+                <element signature="e#24121#24239#0" expanded="false" />
+                <element signature="e#24310#24593#0" expanded="false" />
+                <element signature="e#24663#24782#0" expanded="false" />
+                <element signature="e#24854#25137#0" expanded="false" />
+                <element signature="e#25211#25512#0" expanded="false" />
+                <element signature="e#25585#25869#0" expanded="false" />
+                <element signature="e#25941#26062#0" expanded="false" />
+                <element signature="e#26136#26422#0" expanded="false" />
+                <element signature="e#26495#26617#0" expanded="false" />
+                <element signature="e#26679#26797#0" expanded="false" />
+                <element signature="n#!!doc;n#getSliderStyles#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!doc;n#getListStyles#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!block;n#getSlideTargetPosition#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!doc;n#formatChildren#0;n#Carousel#0" expanded="false" />
+                <element signature="n#!!doc;n#getFrameStyles#0;n#Carousel#0" expanded="false" />
+                <element signature="e#32223#32256#0" expanded="false" />
+                <element signature="e#32317#32344#0" expanded="false" />
+                <element signature="e#32973#33094#0" expanded="false" />
+                <element signature="e#33271#33556#0" expanded="false" />
+                <element signature="e#33804#33837#0" expanded="false" />
+                <element signature="e#33893#33900#0" expanded="false" />
+                <element signature="e#33932#33939#0" expanded="false" />
+                <element signature="e#33963#33970#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tab.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tab/Tab.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tab.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tab/Tab.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#89#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="32" column="92" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this.state.frameWidth</find>
+      <find>cursor</find>
+      <find>getInitialState</find>
+      <find>self.animateSlide();</find>
+      <find>easing</find>
+      <find>tweenState</find>
+      <find>clickSafe</find>
+      <find>handleClick</find>
+      <find>this.props.wrapAround</find>
+      <find>wrapAround</find>
+      <find>autoplayIterator</find>
+      <find>tweenQueue</find>
+      <find>easeOutCirc</find>
+      <find>autoplay</find>
+      <find>autoplayInterval</find>
+      <find>frameOverflow</find>
+      <find>beforeSlide</find>
+      <find>&lt;img style={{width: 200, height: 300}}&gt;src=</find>
+      <find>slideCount</find>
+      <find>getSlideTargetPosition</find>
+      <find>handleSwipe</find>
+      <find>formatChildren</find>
+      <find>auto</find>
+      <find>getslider</find>
+      <find>frameWidth</find>
+      <find>slideIndex</find>
+      <find>currentSlide</find>
+      <find>height</find>
+      <find>getFrame</find>
+      <find>slideWidth</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/comm/carousel.js" />
+        <option value="$PROJECT_DIR$/src/comm/tween-functions.js" />
+        <option value="$PROJECT_DIR$/src/comm/raf.js" />
+        <option value="$PROJECT_DIR$/src/comm/react-tween-state.js" />
+        <option value="$PROJECT_DIR$/src/comm/tween/react-tween-state.js" />
+        <option value="$PROJECT_DIR$/src/comm/carousel/carousel.js" />
+        <option value="$PROJECT_DIR$/src/carousel/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/carousel/carousel.css" />
+        <option value="$PROJECT_DIR$/src/carousel/tween/react-tween-state.js" />
+        <option value="$PROJECT_DIR$/src/carousel/tween/react-tween-state-ext.js" />
+        <option value="$PROJECT_DIR$/src/carousel/decorators/right-center-decorator.js" />
+        <option value="$PROJECT_DIR$/src/carousel/decorators/base-decorator.js" />
+        <option value="$PROJECT_DIR$/src/carousel/tween/ReactTweenState.js" />
+        <option value="$PROJECT_DIR$/src/carousel/decorators/bottom-center-decorator.js" />
+        <option value="$PROJECT_DIR$/src/carousel/carousel.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/atab.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/tab.js" />
+        <option value="$PROJECT_DIR$/src/Tab.css" />
+        <option value="$PROJECT_DIR$/src/tab/Tab.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1860" />
+    <option name="y" value="91" />
+    <option name="width" value="1390" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="carousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/carousel/decorators" />
+      <recent name="$PROJECT_DIR$/src/carousel/tween" />
+      <recent name="$PROJECT_DIR$/src/carousel" />
+      <recent name="$PROJECT_DIR$/src/comm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/tab" />
+      <recent name="$PROJECT_DIR$/src/comm/carousel" />
+      <recent name="$PROJECT_DIR$/src/comm/tween" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:3000/" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434e91f6-f002-4b7f-973c-efacfc9d6065" name="Default" comment="" />
+      <created>1515808530965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515808530965</updated>
+      <workItem from="1515808532960" duration="23151000" />
+      <workItem from="1515855194985" duration="28648000" />
+      <workItem from="1515980734362" duration="27084000" />
+      <workItem from="1516077260167" duration="9862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88745000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1860" y="91" width="1390" height="828" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20233747" sideWeight="0.49333334" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60342556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16901408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20218979" sideWeight="0.50666666" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/carousel/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/decorators/base-decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/tween/ReactTweenState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <element signature="e#145#161#0" expanded="false" />
+            <element signature="e#492#553#0" expanded="false" />
+            <element signature="e#1162#1244#0" expanded="false" />
+            <element signature="e#1250#1483#0" expanded="false" />
+            <element signature="e#1310#1375#0" expanded="false" />
+            <element signature="e#2124#2232#0" expanded="false" />
+            <element signature="e#2246#2315#0" expanded="false" />
+            <element signature="e#2662#2730#0" expanded="false" />
+            <element signature="e#2971#3063#0" expanded="false" />
+            <element signature="e#3520#3591#0" expanded="false" />
+            <element signature="e#4910#4941#0" expanded="false" />
+            <element signature="e#5066#5345#0" expanded="false" />
+            <element signature="e#5209#5266#0" expanded="false" />
+            <element signature="e#5272#5335#0" expanded="false" />
+            <element signature="e#5355#5423#0" expanded="false" />
+            <element signature="e#5518#5549#0" expanded="false" />
+            <element signature="e#5573#5623#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="59" lean-forward="false" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comm/carousel/carousel.js" />
+    <entry file="file://$PROJECT_DIR$/src/comm/carousel/tween/react-tween-state.js" />
+    <entry file="file://$PROJECT_DIR$/src/carousel/carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+            <element signature="e#285#340#0" expanded="false" />
+            <element signature="e#693#751#0" expanded="false" />
+            <element signature="e#1235#1310#0" expanded="false" />
+            <element signature="n#!!block;n#onResize#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#onReadyStateChange#0;n#Carousel#0" expanded="false" />
+            <element signature="e#1884#1901#0" expanded="false" />
+            <element signature="n#!!block;n#componentWillMount#0;n#Carousel#0" expanded="false" />
+            <element signature="e#2886#2948#0" expanded="false" />
+            <element signature="e#3101#3162#0" expanded="false" />
+            <element signature="e#3220#3379#0" expanded="false" />
+            <element signature="e#3258#3311#0" expanded="false" />
+            <element signature="e#3317#3369#0" expanded="false" />
+            <element signature="e#3542#3650#0" expanded="false" />
+            <element signature="n#!!doc;n#setInitialDimensions#0;n#Carousel#0" expanded="false" />
+            <element signature="e#3887#3896#0" expanded="false" />
+            <element signature="e#6708#6755#0" expanded="false" />
+            <element signature="n#!!block;n#setLeft#0;n#Carousel#0" expanded="false" />
+            <element signature="e#6812#6954#0" expanded="false" />
+            <element signature="n#!!block;n#setExternalData#0;n#Carousel#0" expanded="false" />
+            <element signature="e#7019#7061#0" expanded="false" />
+            <element signature="n#!!doc;n#getTargetLeft#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#getTargetLeft#0;n#Carousel#0" expanded="false" />
+            <element signature="e#7275#7904#0" expanded="false" />
+            <element signature="e#8249#8450#0" expanded="false" />
+            <element signature="n#!!doc;n#startAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#startAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#autoplayIterator#0;n#Carousel#0" expanded="false" />
+            <element signature="e#8791#8852#0" expanded="false" />
+            <element signature="e#8943#8984#0" expanded="false" />
+            <element signature="e#8990#9034#0" expanded="false" />
+            <element signature="n#!!doc;n#stopAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#stopAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#resetAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="e#9239#9317#0" expanded="false" />
+            <element signature="n#!!doc;n#goToSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#goToSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#9489#11366#0" expanded="false" />
+            <element signature="e#9531#9570#0" expanded="false" />
+            <element signature="e#9639#10423#0" expanded="false" />
+            <element signature="e#9767#9831#0" expanded="false" />
+            <element signature="e#9865#10390#0" expanded="false" />
+            <element signature="e#10079#10341#0" expanded="false" />
+            <element signature="e#10429#11356#0" expanded="false" />
+            <element signature="e#10686#10757#0" expanded="false" />
+            <element signature="e#10791#11323#0" expanded="false" />
+            <element signature="e#11005#11274#0" expanded="false" />
+            <element signature="e#11480#11533#0" expanded="false" />
+            <element signature="e#11569#11621#0" expanded="false" />
+            <element signature="e#11647#11777#0" expanded="false" />
+            <element signature="n#!!doc;n#nextSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#nextSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#12037#12102#0" expanded="false" />
+            <element signature="e#12232#12263#0" expanded="false" />
+            <element signature="e#12300#12392#0" expanded="false" />
+            <element signature="e#12398#12809#0" expanded="false" />
+            <element signature="e#12445#12590#0" expanded="false" />
+            <element signature="n#!!doc;n#previousSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#previousSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#12937#12968#0" expanded="false" />
+            <element signature="e#13005#13097#0" expanded="false" />
+            <element signature="e#13103#13238#0" expanded="false" />
+            <element signature="n#!!doc;n#animateSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#animateSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#13393#13611#0" expanded="false" />
+            <element signature="n#!!doc;n#handleMouseOver#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#handleMouseOver#0;n#Carousel#0" expanded="false" />
+            <element signature="e#13722#13806#0" expanded="false" />
+            <element signature="n#!!doc;n#handleMouseOut#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#handleMouseOut#0;n#Carousel#0" expanded="false" />
+            <element signature="e#13929#14014#0" expanded="false" />
+            <element signature="n#!!doc;n#swipeDirection#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#swipeDirection#0;n#Carousel#0" expanded="false" />
+            <element signature="e#14305#14369#0" expanded="false" />
+            <element signature="e#14419#14452#0" expanded="false" />
+            <element signature="e#14505#14538#0" expanded="false" />
+            <element signature="e#14591#14625#0" expanded="false" />
+            <element signature="e#14668#14824#0" expanded="false" />
+            <element signature="e#14725#14766#0" expanded="false" />
+            <element signature="e#14772#14814#0" expanded="false" />
+            <element signature="n#!!doc;n#handleSwipe#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#handleSwipe#0;n#Carousel#0" expanded="false" />
+            <element signature="e#15043#15089#0" expanded="false" />
+            <element signature="e#15095#15142#0" expanded="false" />
+            <element signature="e#15246#15311#0" expanded="false" />
+            <element signature="e#15393#16135#0" expanded="false" />
+            <element signature="e#15445#15827#0" expanded="false" />
+            <element signature="e#15656#15750#0" expanded="false" />
+            <element signature="e#15756#15813#0" expanded="false" />
+            <element signature="e#15872#16125#0" expanded="false" />
+            <element signature="e#15950#16044#0" expanded="false" />
+            <element signature="e#16050#16111#0" expanded="false" />
+            <element signature="e#16141#16205#0" expanded="false" />
+            <element signature="e#16261#16301#0" expanded="false" />
+            <element signature="n#!!doc;n#getTouchEvents#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#getTouchEvents#0;n#Carousel#0" expanded="false" />
+            <element signature="e#17693#17988#0" expanded="false" />
+            <element signature="e#18539#18630#0" expanded="false" />
+            <element signature="e#18661#18713#0" expanded="false" />
+            <element signature="n#!!block;n#getMouseEvents#0;n#Carousel#0" expanded="false" />
+            <element signature="e#18825#18861#0" expanded="false" />
+            <element signature="e#18878#21273#0" expanded="false" />
+            <element signature="e#18906#18961#0" expanded="false" />
+            <element signature="e#18988#19042#0" expanded="false" />
+            <element signature="e#19071#19309#0" expanded="false" />
+            <element signature="e#19108#19205#0" expanded="false" />
+            <element signature="e#19238#19293#0" expanded="false" />
+            <element signature="e#19338#20919#0" expanded="false" />
+            <element signature="e#19382#19429#0" expanded="false" />
+            <element signature="e#19692#19751#0" expanded="false" />
+            <element signature="e#20119#20396#0" expanded="false" />
+            <element signature="e#20429#20903#0" expanded="false" />
+            <element signature="e#20946#21089#0" expanded="false" />
+            <element signature="e#20990#21037#0" expanded="false" />
+            <element signature="e#21119#21262#0" expanded="false" />
+            <element signature="e#21163#21210#0" expanded="false" />
+            <element signature="n#!!block;n#handleClick#0;n#Carousel#0" expanded="false" />
+            <element signature="e#21340#21513#0" expanded="false" />
+            <element signature="e#21439#21503#0" expanded="false" />
+            <element signature="n#!!doc;n#render#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#renderDecorators#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#renderDecorators#0;n#Carousel#0" expanded="false" />
+            <element signature="e#22971#23973#0" expanded="false" />
+            <element signature="e#23192#23945#0" expanded="false" />
+            <element signature="n#!!block;n#getDecoratorStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="e#24048#26822#0" expanded="false" />
+            <element signature="e#24121#24239#0" expanded="false" />
+            <element signature="e#24310#24593#0" expanded="false" />
+            <element signature="e#24663#24782#0" expanded="false" />
+            <element signature="e#24854#25137#0" expanded="false" />
+            <element signature="e#25211#25512#0" expanded="false" />
+            <element signature="e#25585#25869#0" expanded="false" />
+            <element signature="e#25941#26062#0" expanded="false" />
+            <element signature="e#26136#26422#0" expanded="false" />
+            <element signature="e#26495#26617#0" expanded="false" />
+            <element signature="e#26679#26797#0" expanded="false" />
+            <element signature="n#!!doc;n#getSliderStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#getListStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#getSlideTargetPosition#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#formatChildren#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#getFrameStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="e#32223#32256#0" expanded="false" />
+            <element signature="e#32317#32344#0" expanded="false" />
+            <element signature="e#32973#33094#0" expanded="false" />
+            <element signature="e#33155#33567#0" expanded="false" />
+            <element signature="e#33271#33556#0" expanded="false" />
+            <element signature="e#33804#33837#0" expanded="false" />
+            <element signature="e#33893#33900#0" expanded="false" />
+            <element signature="e#33932#33939#0" expanded="false" />
+            <element signature="e#33963#33970#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/tween/react-tween-state.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.dev.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/object-assign/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comm/raf.js" />
+    <entry file="file://$PROJECT_DIR$/src/comm/carousel/tween/tween-functions.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="804" column="12" lean-forward="false" selection-start-line="804" selection-start-column="12" selection-end-line="804" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rmc-nuka-carousel/es/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/rmc-nuka-carousel/lib/carousel.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/rmc-nuka-carousel/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/comm/carousel/tween/react-tween-state.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/rmc-nuka-carousel/lib/carousel.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/rmc-nuka-carousel/lib/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/src/comm/carousel/carousel.js" />
+    <entry file="file://$PROJECT_DIR$/src/comm/carousel/decorators.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.test.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/es6-react-mixins/lib/mixin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/raf/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/template/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/tween/react-tween-state.js" />
+    <entry file="file://$PROJECT_DIR$/src/carousel/decorators/left-center-decorator.js" />
+    <entry file="file://$PROJECT_DIR$/src/carousel/decorators/right-center-decorator.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="1742" column="12" lean-forward="false" selection-start-line="1742" selection-start-column="12" selection-end-line="1742" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/decorators/top-center-decorator.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/prop-types/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="7879" column="0" lean-forward="false" selection-start-line="7879" selection-start-column="0" selection-end-line="7879" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/decorators/bottom-center-decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="e#73#93#0" expanded="false" />
+            <element signature="e#185#420#0" expanded="false" />
+            <element signature="e#226#413#0" expanded="false" />
+            <element signature="e#463#711#0" expanded="false" />
+            <element signature="e#486#705#0" expanded="false" />
+            <element signature="e#514#694#0" expanded="false" />
+            <element signature="e#717#740#0" expanded="false" />
+            <element signature="e#760#894#0" expanded="false" />
+            <element signature="e#777#888#0" expanded="false" />
+            <element signature="e#900#927#0" expanded="false" />
+            <element signature="e#945#1051#0" expanded="false" />
+            <element signature="e#962#1045#0" expanded="false" />
+            <element signature="e#1057#1090#0" expanded="false" />
+            <element signature="e#1120#1387#0" expanded="false" />
+            <element signature="e#1137#1381#0" expanded="false" />
+            <element signature="e#1392#1445#0" expanded="false" />
+            <element signature="e#1463#1641#0" expanded="false" />
+            <element signature="e#1568#1605#0" expanded="false" />
+            <element signature="e#1648#1673#0" expanded="false" />
+            <element signature="e#1694#1738#0" expanded="false" />
+            <element signature="e#1744#1773#0" expanded="false" />
+            <element signature="e#1800#2014#0" expanded="false" />
+            <element signature="e#1831#1998#0" expanded="false" />
+            <element signature="e#2031#2342#0" expanded="false" />
+            <element signature="e#2137#2326#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/tween/tween-functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="248" column="31" lean-forward="false" selection-start-line="248" selection-start-column="31" selection-end-line="248" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/tween/ReactTweenState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <element signature="e#145#161#0" expanded="false" />
+            <element signature="e#492#553#0" expanded="false" />
+            <element signature="e#1162#1244#0" expanded="false" />
+            <element signature="e#1250#1483#0" expanded="false" />
+            <element signature="e#1310#1375#0" expanded="false" />
+            <element signature="e#2124#2232#0" expanded="false" />
+            <element signature="e#2246#2315#0" expanded="false" />
+            <element signature="e#2662#2730#0" expanded="false" />
+            <element signature="e#2971#3063#0" expanded="false" />
+            <element signature="e#3520#3591#0" expanded="false" />
+            <element signature="e#4910#4941#0" expanded="false" />
+            <element signature="e#5066#5345#0" expanded="false" />
+            <element signature="e#5209#5266#0" expanded="false" />
+            <element signature="e#5272#5335#0" expanded="false" />
+            <element signature="e#5355#5423#0" expanded="false" />
+            <element signature="e#5518#5549#0" expanded="false" />
+            <element signature="e#5573#5623#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/decorators/base-decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="155" column="21" lean-forward="false" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atab.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tab/Tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#89#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tab/Tab.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="32" column="92" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carousel/carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="923" column="4" lean-forward="false" selection-start-line="923" selection-start-column="4" selection-end-line="923" selection-end-column="4" />
+          <folding>
+            <element signature="e#285#340#0" expanded="false" />
+            <element signature="e#693#751#0" expanded="false" />
+            <element signature="e#1235#1310#0" expanded="false" />
+            <element signature="n#!!block;n#onResize#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#onReadyStateChange#0;n#Carousel#0" expanded="false" />
+            <element signature="e#1884#1901#0" expanded="false" />
+            <element signature="n#!!block;n#componentWillMount#0;n#Carousel#0" expanded="false" />
+            <element signature="e#2886#2948#0" expanded="false" />
+            <element signature="e#3101#3162#0" expanded="false" />
+            <element signature="e#3220#3379#0" expanded="false" />
+            <element signature="e#3258#3311#0" expanded="false" />
+            <element signature="e#3317#3369#0" expanded="false" />
+            <element signature="e#3542#3650#0" expanded="false" />
+            <element signature="n#!!doc;n#setInitialDimensions#0;n#Carousel#0" expanded="false" />
+            <element signature="e#3887#3896#0" expanded="false" />
+            <element signature="e#6708#6755#0" expanded="false" />
+            <element signature="n#!!block;n#setLeft#0;n#Carousel#0" expanded="false" />
+            <element signature="e#6812#6954#0" expanded="false" />
+            <element signature="n#!!block;n#setExternalData#0;n#Carousel#0" expanded="false" />
+            <element signature="e#7019#7061#0" expanded="false" />
+            <element signature="n#!!doc;n#getTargetLeft#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#getTargetLeft#0;n#Carousel#0" expanded="false" />
+            <element signature="e#7275#7904#0" expanded="false" />
+            <element signature="e#8249#8450#0" expanded="false" />
+            <element signature="n#!!doc;n#startAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#startAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#autoplayIterator#0;n#Carousel#0" expanded="false" />
+            <element signature="e#8791#8852#0" expanded="false" />
+            <element signature="e#8943#8984#0" expanded="false" />
+            <element signature="e#8990#9034#0" expanded="false" />
+            <element signature="n#!!doc;n#stopAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#stopAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#resetAutoplay#0;n#Carousel#0" expanded="false" />
+            <element signature="e#9239#9317#0" expanded="false" />
+            <element signature="n#!!doc;n#goToSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#goToSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#9489#11366#0" expanded="false" />
+            <element signature="e#9531#9570#0" expanded="false" />
+            <element signature="e#9639#10423#0" expanded="false" />
+            <element signature="e#9767#9831#0" expanded="false" />
+            <element signature="e#9865#10390#0" expanded="false" />
+            <element signature="e#10079#10341#0" expanded="false" />
+            <element signature="e#10429#11356#0" expanded="false" />
+            <element signature="e#10686#10757#0" expanded="false" />
+            <element signature="e#10791#11323#0" expanded="false" />
+            <element signature="e#11005#11274#0" expanded="false" />
+            <element signature="e#11480#11533#0" expanded="false" />
+            <element signature="e#11569#11621#0" expanded="false" />
+            <element signature="e#11647#11777#0" expanded="false" />
+            <element signature="n#!!doc;n#nextSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#nextSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#12037#12102#0" expanded="false" />
+            <element signature="e#12232#12263#0" expanded="false" />
+            <element signature="e#12300#12392#0" expanded="false" />
+            <element signature="e#12398#12809#0" expanded="false" />
+            <element signature="e#12445#12590#0" expanded="false" />
+            <element signature="n#!!doc;n#previousSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#previousSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#12937#12968#0" expanded="false" />
+            <element signature="e#13005#13097#0" expanded="false" />
+            <element signature="e#13103#13238#0" expanded="false" />
+            <element signature="n#!!doc;n#animateSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#animateSlide#0;n#Carousel#0" expanded="false" />
+            <element signature="e#13393#13611#0" expanded="false" />
+            <element signature="n#!!doc;n#handleMouseOver#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#handleMouseOver#0;n#Carousel#0" expanded="false" />
+            <element signature="e#13722#13806#0" expanded="false" />
+            <element signature="n#!!doc;n#handleMouseOut#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#handleMouseOut#0;n#Carousel#0" expanded="false" />
+            <element signature="e#13929#14014#0" expanded="false" />
+            <element signature="n#!!doc;n#swipeDirection#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#swipeDirection#0;n#Carousel#0" expanded="false" />
+            <element signature="e#14305#14369#0" expanded="false" />
+            <element signature="e#14419#14452#0" expanded="false" />
+            <element signature="e#14505#14538#0" expanded="false" />
+            <element signature="e#14591#14625#0" expanded="false" />
+            <element signature="e#14668#14824#0" expanded="false" />
+            <element signature="e#14725#14766#0" expanded="false" />
+            <element signature="e#14772#14814#0" expanded="false" />
+            <element signature="n#!!doc;n#handleSwipe#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#handleSwipe#0;n#Carousel#0" expanded="false" />
+            <element signature="e#15043#15089#0" expanded="false" />
+            <element signature="e#15095#15142#0" expanded="false" />
+            <element signature="e#15246#15311#0" expanded="false" />
+            <element signature="e#15393#16135#0" expanded="false" />
+            <element signature="e#15445#15827#0" expanded="false" />
+            <element signature="e#15656#15750#0" expanded="false" />
+            <element signature="e#15756#15813#0" expanded="false" />
+            <element signature="e#15872#16125#0" expanded="false" />
+            <element signature="e#15950#16044#0" expanded="false" />
+            <element signature="e#16050#16111#0" expanded="false" />
+            <element signature="e#16141#16205#0" expanded="false" />
+            <element signature="e#16261#16301#0" expanded="false" />
+            <element signature="n#!!doc;n#getTouchEvents#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#getTouchEvents#0;n#Carousel#0" expanded="false" />
+            <element signature="e#17693#17988#0" expanded="false" />
+            <element signature="e#18539#18630#0" expanded="false" />
+            <element signature="e#18661#18713#0" expanded="false" />
+            <element signature="n#!!block;n#getMouseEvents#0;n#Carousel#0" expanded="false" />
+            <element signature="e#18825#18861#0" expanded="false" />
+            <element signature="e#18878#21273#0" expanded="false" />
+            <element signature="e#18906#18961#0" expanded="false" />
+            <element signature="e#18988#19042#0" expanded="false" />
+            <element signature="e#19071#19309#0" expanded="false" />
+            <element signature="e#19108#19205#0" expanded="false" />
+            <element signature="e#19238#19293#0" expanded="false" />
+            <element signature="e#19338#20919#0" expanded="false" />
+            <element signature="e#19382#19429#0" expanded="false" />
+            <element signature="e#19692#19751#0" expanded="false" />
+            <element signature="e#20119#20396#0" expanded="false" />
+            <element signature="e#20429#20903#0" expanded="false" />
+            <element signature="e#20946#21089#0" expanded="false" />
+            <element signature="e#20990#21037#0" expanded="false" />
+            <element signature="e#21119#21262#0" expanded="false" />
+            <element signature="e#21163#21210#0" expanded="false" />
+            <element signature="n#!!block;n#handleClick#0;n#Carousel#0" expanded="false" />
+            <element signature="e#21340#21513#0" expanded="false" />
+            <element signature="e#21439#21503#0" expanded="false" />
+            <element signature="n#!!doc;n#render#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#renderDecorators#0;n#Carousel#0" expanded="false" />
+            <element signature="e#24121#24239#0" expanded="false" />
+            <element signature="e#24310#24593#0" expanded="false" />
+            <element signature="e#24663#24782#0" expanded="false" />
+            <element signature="e#24854#25137#0" expanded="false" />
+            <element signature="e#25211#25512#0" expanded="false" />
+            <element signature="e#25585#25869#0" expanded="false" />
+            <element signature="e#25941#26062#0" expanded="false" />
+            <element signature="e#26136#26422#0" expanded="false" />
+            <element signature="e#26495#26617#0" expanded="false" />
+            <element signature="e#26679#26797#0" expanded="false" />
+            <element signature="n#!!doc;n#getSliderStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#getListStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!block;n#getSlideTargetPosition#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#formatChildren#0;n#Carousel#0" expanded="false" />
+            <element signature="n#!!doc;n#getFrameStyles#0;n#Carousel#0" expanded="false" />
+            <element signature="e#32223#32256#0" expanded="false" />
+            <element signature="e#32317#32344#0" expanded="false" />
+            <element signature="e#32973#33094#0" expanded="false" />
+            <element signature="e#33271#33556#0" expanded="false" />
+            <element signature="e#33804#33837#0" expanded="false" />
+            <element signature="e#33893#33900#0" expanded="false" />
+            <element signature="e#33932#33939#0" expanded="false" />
+            <element signature="e#33963#33970#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

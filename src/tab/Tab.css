@@ -1,0 +1,21 @@
+.flex_box {
+  display: flex; display: -webkit-flex;
+}
+.page_container {
+  display: flex; display: -webkit-flex;
+  flex: 1; -webkit-flex: 1;
+  flex-direction: column; -webkit-flex-direction: column;
+  background: #f1f1f1;
+  font-size: 15px;
+}
+.page_context {
+  display: flex; display: -webkit-flex;
+  flex: 1; -webkit-flex: 1;
+  flex-direction: column; -webkit-flex-direction: column;
+  background: #f1f1f1;
+  font-size: 15px;
+  overflow: scroll;
+  overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 10px;
+}
